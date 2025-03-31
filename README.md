@@ -1,16 +1,20 @@
-## Hi there 👋
+# Welcome to My GitHub! 👋
 
-<!--
-**abhimanyu726/abhimanyu726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hi there! I'm **Abhimanyu Singh**, an AI & ML enthusiast passionate about building intelligent solutions. I enjoy working on cutting-edge technologies, exploring LLMs, and deploying AI-driven applications.
 
-Here are some ideas to get you started:
+## Interests & Skills 🔍
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 📊 **Data Science & Analytics**
+- 📝 **Prompt Engineering & LLM**
+- ☁️ **Cloud Computing & AI Deployment**
+- 🎨 **Creative AI Applications**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect! 🌎
+If you're interested in AI, ML, or just want to collaborate, feel free to connect!
+
+📧 Email: abhimanyus0726@gmail.com  
+🔗 GitHub: [@abhimanyu726](https://github.com/abhimanyu726)  
+💼 LinkedIn: [Abhimanyu Singh](https://www.linkedin.com/in/abhimanyu06)  
+
+Happy Coding! 🚀
