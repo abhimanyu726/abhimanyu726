@@ -1,19 +1,25 @@
-# Welcome to My GitHub! 👋
+👋 Hi, I'm Abhimanyu Singh
+🚀 About Me
 
-## 📌 About Me
-Hi there! I'm **Abhimanyu Singh**, an AI & ML enthusiast passionate about building intelligent solutions. I enjoy working on cutting-edge technologies, exploring LLMs, and deploying AI-driven applications.
+I’m an AI & Machine Learning enthusiast focused on building practical, scalable, and intelligent systems. My work revolves around leveraging modern AI technologies—especially Large Language Models (LLMs)—to solve real-world problems.
 
-## 🚀 Interests & Skills 🔍
-- 🤖 **Artificial Intelligence & Machine Learning**
-- 📊 **Data Science & Analytics**
-- 📝 **Prompt Engineering & LLM**
-- ☁️ **Cloud Computing & AI Deployment**
-- 🎨 **Creative AI Applications**
+I enjoy designing end-to-end solutions, from model development to deployment, with an emphasis on clean architecture and impactful applications.
 
-## 🌎 Let's Connect! 🌎
-If you're interested in AI, ML, or just want to collaborate, feel free to connect!
+🧠 Core Interests
+Artificial Intelligence & Machine Learning
+Large Language Models (LLMs) & Prompt Engineering
+Data Science & Predictive Modeling
+Cloud-Based ML Deployment
+AI-Driven Product Development
+⚙️ What I’m Working On
+Developing AI-powered applications combining ML models + LLMs
+Exploring Agentic AI systems and advanced GenAI workflows
+Building scalable and modular ML pipelines
+🤝 Let’s Connect
 
-📧 Email: abhimanyus0726@gmail.com  
-💼 LinkedIn: [Abhimanyu Singh](https://www.linkedin.com/in/abhimanyu06)  
+I’m open to collaborations, internships, and discussions around AI/ML and GenAI.
 
-Happy Coding! 🚀
+📧 Email: abhimanyus0726@gmail.com
+💼 LinkedIn: Abhimanyu Singh
+
+⭐ Focused on building meaningful AI systems that go beyond experimentation.
