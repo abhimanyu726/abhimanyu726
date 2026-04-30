@@ -20,6 +20,6 @@ Building scalable and modular ML pipelines
 I’m open to collaborations, internships, and discussions around AI/ML and GenAI.
 
 📧 Email: abhimanyus0726@gmail.com
-💼 LinkedIn: Abhimanyu Singh
+💼 LinkedIn: [Abhimanyu Singh](https://www.linkedin.com/in/abhimanyu06)
 
 ⭐ Focused on building meaningful AI systems that go beyond experimentation.
